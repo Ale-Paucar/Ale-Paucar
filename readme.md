@@ -7,7 +7,12 @@
 - 🌱 I’m currently learning Java and Spring  
   
 
-- ❓ Ask me about anything related to React and Javascript  
+- ❓ Ask me about anything related to React and Javascript
+
+- 📫 How to reach me **<nuala.ni.ale@gmail.com>**
+
+- ⚡ Fun fact **I like writing fiction**
+
   
 
 <br/>  
@@ -44,8 +49,3 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
