@@ -1,7 +1,7 @@
 ### <div align="center">Hi! I'm Alexis 😊, a full-time full-stack developer 👨‍💻.</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on my own projects.  
   
 
 - 🌱 I’m currently learning Java and Spring  
