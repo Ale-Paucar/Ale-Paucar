@@ -1,13 +1,13 @@
-### <div align="center">Hi! I'm Alexis 😊, a full-time full-stack developer 👨‍💻.</div>  
+### <div align="center">Hi! I'm Alexis 😊, a backend web developer 👨‍💻.</div>  
   
 
 - 🔭 I’m currently working on my own projects.  
   
 
-- 🌱 I’m currently learning Java and Spring  
+- 🌱 I’m currently learning Java and Spring Boot
   
 
-- ❓ Ask me about anything related to React and Javascript
+- ❓ Ask me about anything related to Java and Javascript
 
 - 📫 How to reach me **<nuala.ni.ale@gmail.com>**
 
